@@ -1,0 +1,26 @@
+/*Theme Name: MovieMe
+Theme URI: http://themeforest.net/item/movie-me-one-page-responsive-wordpress-theme/9516307
+Description: This site is intended for the presentation of films, projects, videos, movies and much more. Pictures and videos easily change. These sites are very popular because they have a very large conversion. All content is used to attract attention to details of the products.
+Version: 4.3
+Author: webRedox WordPress team
+Author URI: http://webredox.net/
+
+License:
+License URI:
+Tags: two-columns, custom-background, custom-colors, featured-images, theme-options
+Text Domain: movieme
+*/
+
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignright{}
+.alignleft{}
+.aligncenter{}
+
+/******************************************************************************************************/
+			/*Your CSS*/
+/******************************************************************************************************/
+body{overflow-x: hidden;}

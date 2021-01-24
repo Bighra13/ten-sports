@@ -1,0 +1,19 @@
+.tp-leftarrow.default {
+  background-image: url(../img/large_left.png);
+  }
+  
+  .tp-rightarrow.default {
+  background-image: url(../img/large_right.png);
+}
+.tp-leftarrow.default:hover {
+  background-position: bottom left;
+  background-color:#fb0000;
+}
+.tp-rightarrow.default:hover {
+  background-position: bottom left;
+   background-color:#fb0000;
+}
+
+.tp-bullets.simplebullets.round {
+  display: none;
+}
